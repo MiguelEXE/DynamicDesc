@@ -2,6 +2,6 @@
   "name": "DynamicDesc",
   "author": "MiguelEX3",
   "main": "dynamicdesc.DynamicDesc",
-  "description": "Changes description every 0.1 seconds",
+  "description": "Changes description every 1/10 of a second.",
   "version": 1.0
 }
