@@ -3,5 +3,5 @@
   "author": "MiguelEX3",
   "main": "dynamicdesc.DynamicDesc",
   "description": "Changes description every 1/10 of a second.",
-  "version": 1.0
+  "version": 1.1
 }
